@@ -199,7 +199,7 @@ A Telegram CC Checker Bot with hella lotta features.
 
 
 
-)
+
 
 
 
